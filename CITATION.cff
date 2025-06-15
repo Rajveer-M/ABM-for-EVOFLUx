@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ABM for EVOFLUx
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Rajveer
+    family-names: Mukherjee
+    email: rajveerm.005@gmail.com
+repository-code: 'https://github.com/Rajveer-M/ABM-for-EVOFLUx.git'
+abstract: ABM code for EVOFLUx project
